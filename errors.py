@@ -9,7 +9,7 @@ def podaj(tekst):
             print("Podaj sama liczbe!")
 czas = podaj("Podaj czas w minutach")
 tetno = podaj("Podaj tętno")
-print(czas*tetno*0.07)
+print(czas*tetno*0.068)
 
 
     
